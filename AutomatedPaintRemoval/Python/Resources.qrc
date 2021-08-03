@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Qtresources">
+    <file>Resources/Images/000000.png</file>
+    <file>Resources/Images/0000.png</file>
+    <file>Resources/Images/0awdwad00000.png</file>
+    <file>Resources/Images/fdddddfffff.png</file>
+    <file>Resources/Images/ffffff.png</file>
+    <file>Resources/Images/resized image.png</file>
+    <file>Resources/Images/SIM.png</file>
+    <file>Resources/Images/stick-shift-gear-speed-512.png</file>
+    <file>Resources/Images/Valve_monochrome_canny_(6).PNG</file>
+  </qresource>
+</RCC>
