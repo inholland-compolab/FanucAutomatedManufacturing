@@ -1,0 +1,26 @@
+Notes for Fanuc Robot at Inholland composites:
+software:
+
+
+RoboDK
+License for roboDK is network license: 51D9-5A01-DB79-5D12-4317-C5EE-B1C8-3D70
+Robot IP/COM:192.168.0.101
+Robot Port 2000
+
+
+
+LabVIEW Digimetrix robotics library:
+	LabVIEW license code 2020-2021: M85X53915
+	Just one license available:
+		LicenseID: 62977855
+		Activation Password: 5Q969DEN
+		If you need to change the license to another PC first you need to deactivate the license on this PC.
+	To control the robot with LabVIEW library run the DMSERVER file on the robot. This file makes sure that the 
+	robot is "listening" to the port for input from the computer.
+	IP-adress of the robot: 192.168.0.101
+	Port: 10000
+	connection issues? Check the router via 192.168.0.1.
+
+
+
+
