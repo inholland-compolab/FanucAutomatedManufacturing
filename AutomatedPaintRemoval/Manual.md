@@ -1,0 +1,1 @@
+# Instruction manual AutomatedPaintRemoval softwareThis series of lose documents describes the inner workings of the code. The system has been split in two parts.\one part being the Python code, and the other being the RoboDK stations used in this project.[python documentation](Python/MarkdownDocs/Python.md)\[RobotStation documentation](Station/Station.md)
